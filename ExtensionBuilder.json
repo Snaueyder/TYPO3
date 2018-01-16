@@ -483,7 +483,26 @@
         "name": "Media LO",
         "originalExtensionKey": "media_lo",
         "originalVendorName": "LO",
-        "persons": [],
+        "persons": [
+            {
+                "company": "",
+                "email": "",
+                "name": "Fabien Orea",
+                "role": "Developer"
+            },
+            {
+                "company": "",
+                "email": "",
+                "name": "Benjamin Lefebvre",
+                "role": "Developer"
+            },
+            {
+                "company": "",
+                "email": "",
+                "name": "R\u00e9my Seuret",
+                "role": "Developer"
+            }
+        ],
         "plugins": [
             {
                 "actions": {
@@ -578,7 +597,7 @@
         }
     ],
     "log": {
-        "last_modified": "2018-01-16 03:53",
+        "last_modified": "2018-01-16 04:12",
         "extension_builder_version": "8.7.0",
         "be_user": " (1)"
     }

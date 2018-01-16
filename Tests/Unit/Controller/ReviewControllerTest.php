@@ -3,6 +3,10 @@ namespace LO\MediaLo\Tests\Unit\Controller;
 
 /**
  * Test case.
+ *
+ * @author Fabien Orea 
+ * @author Benjamin Lefebvre 
+ * @author Rémy Seuret 
  */
 class ReviewControllerTest extends \TYPO3\CMS\Core\Tests\UnitTestCase
 {

@@ -32,8 +32,10 @@ Media LO
 		2018
 
 	:Author:
+		Fabien Orea, Benjamin Lefebvre, Rémy Seuret
 
 	:Email:
+		, , 
 
 	:License:
 		This document is published under the Open Content License

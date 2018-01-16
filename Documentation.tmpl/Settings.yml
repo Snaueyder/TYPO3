@@ -20,7 +20,7 @@ conf.py:
   - - Index
     - media_lo.tex
     - Media LO
-    - 
+    - Fabien Orea, Benjamin Lefebvre, Rémy Seuret
     - manual
   latex_elements:
     papersize: a4paper

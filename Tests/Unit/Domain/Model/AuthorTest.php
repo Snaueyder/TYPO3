@@ -3,6 +3,10 @@ namespace LO\MediaLo\Tests\Unit\Domain\Model;
 
 /**
  * Test case.
+ *
+ * @author Fabien Orea 
+ * @author Benjamin Lefebvre 
+ * @author Rémy Seuret 
  */
 class AuthorTest extends \TYPO3\CMS\Core\Tests\UnitTestCase
 {
