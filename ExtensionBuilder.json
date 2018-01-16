@@ -1,0 +1,32 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "erguhzerlzgbketbgvkuzerbgvkuzebvkuzebvgbs",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.7.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "8.7.0-8.7.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "media_lo",
+        "name": "Media LO",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [],
+        "plugins": [],
+        "vendorName": "LO"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2018-01-09 05:51",
+        "extension_builder_version": "8.7.0",
+        "be_user": " (1)"
+    }
+}

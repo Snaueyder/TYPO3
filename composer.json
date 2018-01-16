@@ -1,0 +1,14 @@
+{
+    "name": "lo/media-lo",
+    "type": "typo3-cms-extension",
+    "description": "erguhzerlzgbketbgvkuzerbgvkuzebvkuzebvgbs",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "LO\\MediaLo\\": "Classes"
+        }
+    }
+}
