@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-16T15:53:52Z" product-name="media_lo">
+		<header/>
+		<body>
+			<trans-unit id="name.description">
+				<source>Nom</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="image.description">
+				<source>image</source>
+			</trans-unit>
+			<trans-unit id="date_publicatio.description">
+				<source>datePublicatio</source>
+			</trans-unit>
+			<trans-unit id="files.description">
+				<source>files</source>
+			</trans-unit>
+			<trans-unit id="reviews.description">
+				<source>avis</source>
+			</trans-unit>
+			<trans-unit id="author.description">
+				<source>Auteur</source>
+			</trans-unit>
+			<trans-unit id="categoies.description">
+				<source>categories</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>type</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

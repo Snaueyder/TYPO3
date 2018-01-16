@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-16T15:53:52Z" product-name="media_lo">
+		<header/>
+		<body>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="bio.description">
+				<source>bio</source>
+			</trans-unit>
+			<trans-unit id="pictures.description">
+				<source>pictures</source>
+			</trans-unit>
+			<trans-unit id="socials.description">
+				<source>Réseaux sociaux</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
