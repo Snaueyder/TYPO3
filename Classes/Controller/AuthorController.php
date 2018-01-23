@@ -18,6 +18,14 @@ namespace LO\MediaLo\Controller;
 class AuthorController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController
 {
     /**
+     * mediaRepository
+     *
+     * @var \LO\MediaLo\Domain\Repository\AuthorRepository
+     * @inject
+     */
+    protected $authorRepository = null;
+
+    /**
      * action list
      *
      * @return void
